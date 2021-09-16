@@ -1,3 +1,5 @@
 This is Component1
 this is a bug fix on hotfix branch
 testing branching & merging concept while being in release branch
+Changes made by Developer 2
+Changes made by Developer 2
